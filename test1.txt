@@ -1,3 +1,7 @@
 test1 testing purpose
 Changing file content
+
+committed in new branch
+
 committed after changing in branch1
+
